@@ -1,0 +1,20 @@
+format = """
+🌿 $directory$git_branch$git_status
+$character"""
+
+[directory]
+style = "fg:#A8C44C bold"
+truncation_length = 3
+
+[git_branch]
+format = "[$symbol$branch]($style) "
+style = "fg:#8B4A35"
+symbol = " "
+
+[git_status]
+format = '([$all_status$ahead_behind]($style) )'
+style = "fg:#C4914C"
+
+[character]
+success_symbol = "[❯](fg:#7A9A3E)"
+error_symbol = "[❯](fg:#8B4A35)"

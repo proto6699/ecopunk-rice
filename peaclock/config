@@ -1,0 +1,16 @@
+[style]
+date = true
+seconds = true
+military = false
+
+[color]
+active-fg = "#A8C44C"
+inactive-fg = "#3D4A2E"
+hour = "#A8C44C"
+minute = "#7A9A3E"
+second = "#4A6A5A"
+colon = "#D4DEAF"
+date-fg = "#8A9A6B"
+
+[symbol]
+block = "█"
