@@ -124,6 +124,48 @@ disappear in the grey, it gets more saturated.
 ---
 
 ## files
+```text
+.
+├── waybar/
+│   ├── config
+│   └── style.css
+│
+├── wofi/
+│   ├── config
+│   └── style.css
+│
+├── kitty/
+│   └── kitty.conf
+│
+├── starship/
+│   └── starship.toml
+│
+├── fish/
+│   └── config.fish
+│
+├── btop/
+│   ├── btop.conf
+│   └── themes/
+│       └── ecopunk.theme
+│
+├── cava/
+│   └── config
+│
+├── peaclock/
+│   └── config
+│
+├── nvim/
+│   └── colors/
+│       └── ecopunk.lua
+│
+├── screenshots/
+│   ├── desktop-dark.png
+│   ├── in-use.png
+│   ├── bar-detail.png
+│   └── desktop-light.png
+│
+└── README.md
+```
 
 ---
 
